@@ -10,3 +10,5 @@ Good textbook here: https://learning.oreilly.com/library/view/hands-on-machine-l
  * a model deployed to production with an interface you can post to and get an answer:
  https://github.com/IBM/skillsnetwork/blob/master/coursera_ai/week4/Keras_train_deploy_score_wmlc_py_pub.ipynb
  
+ * a model to do sentiment analysis on IMDB models: https://www.coursera.org/learn/ai/lecture/hQYsN/recurrent-neural-networks
+ 
